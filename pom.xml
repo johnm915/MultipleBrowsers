@@ -40,6 +40,11 @@
       <artifactId>webdriver-manager</artifactId>
       <version>0.3.0</version>
     </dependency>
+    <dependency>
+      <groupId>io.github.bonigarcia</groupId>
+      <artifactId>webdrivermanager</artifactId>
+      <version>5.2.2</version>
+    </dependency>
 
   </dependencies>
 
